@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = 'Nexus 5X API 27'
+app = "app-android-calculator.apk"
